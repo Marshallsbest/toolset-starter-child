@@ -1,0 +1,11 @@
+{
+  "name": "toolset-starter-child",
+  "version": "1.0.0",
+  "description": "integrating MDL into toolset ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Marshall",
+  "license": "ISC"
+}
